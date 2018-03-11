@@ -53,3 +53,4 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+.idea/complications.iml .idea/gradle.xml .idea/libraries .idea/misc.xml .idea/modules.xml .idea/runConfigurations.xml .idea/vcs.xml .idea/workspace.xml
